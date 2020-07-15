@@ -1,0 +1,7 @@
+ANTES DE CORRER LA APLICACION DESCARGUE :
+recomendable descargar python 3.6
+pip install opencv_contrib_python
+pip install pandas
+pip install xlsxwriter
+pip install numpy 
+pip install playsound
